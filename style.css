@@ -132,6 +132,8 @@ h2 {
 p{
     text-align: center;
     font-size: 35px;
+    padding: 10px;
+
 }
 
 .btn-order:hover {
