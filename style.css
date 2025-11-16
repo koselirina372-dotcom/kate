@@ -129,6 +129,10 @@ h2 {
     box-shadow: 3px 3px 8px rgba(0,0,0,0.2);
     transition: 0.3s;
 }
+p{
+    text-align: center;
+    font-size: 25px;
+}
 
 .btn-order:hover {
     background-color: #81464f;
